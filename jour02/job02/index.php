@@ -8,7 +8,8 @@
 </head>
 
     <body>
-        <button id="button">Cliquez ici</button>
+        <button id="button">Cliquez ici</button>*
+        <button id="button2">Cliquez ici</button>
         <script src="script.js">
            
         </script>

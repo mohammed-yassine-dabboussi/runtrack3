@@ -1,0 +1,14 @@
+body {
+  min-width: 4096px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Utilisez javascript pour mettre à jour la couleur du footer en fonction du pourcentage de scrolling */
+footer {
+  background-color: transparent;
+}
