@@ -18,8 +18,6 @@ melangerBtn.addEventListener("click", function() {
 });
 
 recommencerBtn.addEventListener("click", function() {
-    x=0;
-    $('abc').append("<img src='arc1.png' alt='image'>");
-    $(".arc1.png").remove();
+    history.go(0);
 });
           
